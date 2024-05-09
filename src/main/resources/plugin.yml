@@ -4,3 +4,6 @@ main: de.glowman554.claimchunkmongodb.ClaimChunkMongoDB
 api-version: '1.20'
 depend:
   - ClaimChunk
+commands:
+  cache:
+    permission: claimchunkmongodb.cache
